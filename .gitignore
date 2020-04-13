@@ -1,3 +1,9 @@
+# videos
+
+*.mp4
+*.gif
+*.jpg
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
